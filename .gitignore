@@ -1,0 +1,13 @@
+target/
+test/
+logs/
+temp/
+node_modules/
+uploadfile/
+
+### IntelliJ IDEA ###
+.idea
+*.iml
+
+### Visual Studio Code ###
+.vscode
